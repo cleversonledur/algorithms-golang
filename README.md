@@ -1,2 +1,2 @@
 # algorithms-golang
-A variety of algorithms implemented using Golang
+A variety of algorithms implemented using Golang.
